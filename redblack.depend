@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1683965266 source:c:\users\Àíÿ\desktop\ÑÏÁÃÓ\ÈÍÔÀ\Ëàáû\redblack\func.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1683965353 source:c:\users\Àíÿ\desktop\ÑÏÁÃÓ\ÈÍÔÀ\Ëàáû\redblack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"func.h"
+
+1683973612 c:\users\Àíÿ\desktop\ÑÏÁÃÓ\ÈÍÔÀ\Ëàáû\redblack\func.h
+
